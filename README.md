@@ -55,6 +55,7 @@
 * *FrontEnd:* *Тимур* https://github.com/esscapist | https://github.com/esscapist/Repair-Crew-Lab-FrontEnd- 
 * *BackEnd:*
 * *DataBase:* *Влад* https://github.com/cumato3 | https://github.com/cumato3/Data-Base-Repair-Crew-Lab
+* *DataBase:* *Никита* https://github.com/Nikita4123 | https://github.com/Nikita4123/Repair-Crew-Lab-BackEnd
 
 # 6 Краткая формула проекта:
 
